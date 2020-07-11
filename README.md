@@ -1,4 +1,8 @@
-### Hi there 👋
+### Olá, seja bem vindo! 👋
+
+- 🌱 Atualmente estou estudando bastante sobre React e React Native.
+- 📫 Contato: [E-mail](mailto:gabriel.silipi@gmail.com) ou [Facebook](https://wwww.facebook.com/gabriel.silipi.1)
+
 
 <!--
 **silipi/silipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
