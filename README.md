@@ -1,7 +1,7 @@
 ### Olá, seja bem vindo! 👋
 
 - 🌱 Atualmente estou estudando bastante sobre React e React Native.
-- 📫 Contato: [E-mail](mailto:gabriel.silipi@gmail.com) ou [Facebook](https://wwww.facebook.com/gabriel.silipi.1)
+- 📫 Contato: [E-mail](mailto:gabriel.silipi@gmail.com) ou [Facebook](https://www.facebook.com/gabriel.silipi.1)
 
 
 <!--
