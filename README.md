@@ -1,6 +1,9 @@
 ### Olá, seja bem vindo! 👋
 
 - 🌱 Atualmente estou estudando bastante sobre React e React Native.
+
+- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar.
+- 🔭 Trabalho como Analista de Testes/QA e pretendo me tornar um Desenvolvedor Front-end!
 - 📫 Contato: [E-mail](mailto:gabriel.silipi@gmail.com) ou [Facebook](https://www.facebook.com/gabriel.silipi.1)
 
 
