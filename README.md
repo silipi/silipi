@@ -4,7 +4,7 @@
 
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar.
 - 🔭 Trabalho como Desenvolvedor de Sistemas, com enfâse no desenvolvimento front-end.
-- 📫 Contato: [E-mail](mailto:gabriel.silipi@gmail.com) ou [Facebook](https://www.facebook.com/gabriel.silipi.1)
+- 📫 Contato: [E-mail](mailto:gabriel.silipi@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/gabriel-silipi/)
 
 
 <!--
