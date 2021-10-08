@@ -1,10 +1,10 @@
-### Olá, seja bem vindo! 👋
+### Hey, 👋 welcome!
 
-- 🌱 Atualmente estou estudando bastante sobre React e React Native.
+- 🌱 I'm studying a lot about React Native, React.js and Node.js to became a better fullstack developer.
 
-- 📚 Sou estudante de Análise e Desenvolvimento de Sistemas na Unicesumar.
-- 🔭 Trabalho como Desenvolvedor de Sistemas, com enfâse no desenvolvimento front-end.
-- 📫 Contato: [E-mail](mailto:gabriel.silipi@gmail.com) ou [LinkedIn](https://www.linkedin.com/in/gabriel-silipi/)
+- 📚 I study a Technician Degree at Analysis and System Development at University UniCesumar.
+- 🔭 I'm working as a Software Developer, with emphasis in Front-End Development;
+- 📫 Contact me: [E-mail](mailto:gabriel.silipi@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gabriel-silipi/)
 
 
 <!--
