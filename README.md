@@ -1,23 +1,7 @@
 ### Hey, 👋 welcome!
 
-- 🌱 I'm studying a lot about React Native, React.js and Node.js to became a better fullstack developer.
+This is some of my little free time side projects :computer:;
 
-- 📚 I study a Technician Degree at Analysis and System Development at University UniCesumar.
-- 🔭 I'm working as a Software Developer, with emphasis in Front-End Development;
-- 📫 Contact me: [E-mail](mailto:gabriel.silipi@gmail.com) or [LinkedIn](https://www.linkedin.com/in/gabriel-silipi/)
+There are some unfinished projects along with old ones, but I always leave it there to track my professional development as a Software Engineer;
 
-
-<!--
-**silipi/silipi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you are interested in work along with me, or just to discuss tech, cars, design or whatever, you can reach me through my [email](mailto:gabriel.silipi@gmail.com) and [LinkedIn](https://www.linkedin.com/in/gabriel-silipi/).
